@@ -48,7 +48,7 @@ export default function Contact() {
         "service_9gwc0ej",   // Replace with EmailJS service ID
         "template_mrkjbac",  // Replace with EmailJS template ID
         formData,
-        "template_p0qgjwv"    // Replace with EmailJS public key
+        "eR6hz0BNrUgdvufJy"    // Replace with EmailJS public key
       )
       .then(
         (result) => {
