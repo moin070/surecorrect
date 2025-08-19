@@ -42,10 +42,10 @@ const Appointment = () => {
     // Send Email via EmailJS
     emailjs
       .send(
-        "YOUR_SERVICE_ID", // replace with your EmailJS Service ID
-        "YOUR_TEMPLATE_ID", // replace with your EmailJS Template ID
+        "service_9gwc0ej", // replace with your EmailJS Service ID
+        "template_p0qgjwv", // replace with your EmailJS Template ID
         formData,
-        "YOUR_PUBLIC_KEY" // replace with your EmailJS Public Key
+        "eR6hz0BNrUgdvufJy" // replace with your EmailJS Public Key
       )
       .then(
         (result) => {

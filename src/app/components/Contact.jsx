@@ -45,10 +45,10 @@ export default function Contact() {
     // EmailJS send
     emailjs
       .send(
-        "YOUR_SERVICE_ID",   // Replace with EmailJS service ID
-        "YOUR_TEMPLATE_ID",  // Replace with EmailJS template ID
+        "service_9gwc0ej",   // Replace with EmailJS service ID
+        "template_mrkjbac",  // Replace with EmailJS template ID
         formData,
-        "YOUR_PUBLIC_KEY"    // Replace with EmailJS public key
+        "template_p0qgjwv"    // Replace with EmailJS public key
       )
       .then(
         (result) => {
