@@ -91,7 +91,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-800">Call Us</h4>
-                  <p className="text-gray-600">+91-8446117141</p>
+                  <p className="text-gray-600">+91-9850007428</p>
                   <p className="text-sm text-gray-500 mt-1">Mon-Fri: 8am-6pm</p>
                 </div>
               </div>
@@ -102,7 +102,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-800">Email Us</h4>
-                  <p className="text-gray-600">care@surecorrect.com</p>
+                  <p className="text-gray-600">surecorrect.aligners@gmail.com</p>
                   <p className="text-sm text-gray-500 mt-1">
                     Response within 24 hours
                   </p>
@@ -141,7 +141,7 @@ export default function Contact() {
                 <div className="bg-red-100 p-2 rounded-full mr-3">
                   <FaTooth className="text-red-600" />
                 </div>
-                <p className="text-gray-600">After hours: +91-8446117141</p>
+                <p className="text-gray-600">After hours: +91-9130703905</p>
               </div>
             </div>
           </div>
