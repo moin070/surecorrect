@@ -16,17 +16,14 @@ export default function Footer() {
             </h3>
             
             <div className="space-y-3 mb-6">
-              <div className="flex items-center">
-                <FaMapMarkerAlt className="text-blue-400 mr-3" />
-                <span>123 Smile Avenue, Dental City, DC 12345</span>
-              </div>
+              
               <div className="flex items-center">
                 <FaPhone className="text-blue-400 mr-3" />
                 <span>+91-8446117141</span>
               </div>
               <div className="flex items-center">
                 <FaEnvelope className="text-blue-400 mr-3" />
-                <span>care@surecorrect.com</span>
+                <span>surecorrect.aligners@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <FaClock className="text-blue-400 mr-3" />
@@ -44,9 +41,6 @@ export default function Footer() {
               </a>
               <a href="#t" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition">
                 <FaFacebook className="text-2xl" />
-              </a>
-              <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-red-600 transition">
-                <FaYoutube className="text-2xl" />
               </a>
             </div>
           </div>
